@@ -2,8 +2,6 @@
 
 Bulk Importer for bands.
 
-Replace selector if/else statements with dictionaries
-
 Group related functions together as classes.
 
 User defined names and weights for favorite levels
