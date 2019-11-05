@@ -12,5 +12,5 @@ Unit Tests?
 
 **Long Term Plans:**
 
-Weighting is going to be more dyname based on play counts and other variables. This requires me to learn Api's to pull data from 
+Weighting is going to be more dynamic and based on play counts and other variables. This requires me to learn Api's to pull data from 
 Last.fm
